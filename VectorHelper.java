@@ -4,6 +4,7 @@ import java.util.Scanner;
 /**
  * VectorHelper class uses for operations on a vector
  */
+
 public  class VectorHelper {
     /**
      * This is a constructor to initialize VectorHelper object.
@@ -12,6 +13,7 @@ public  class VectorHelper {
     public VectorHelper() {
         // TODO Auto-generated constructor stub
     }
+
     /**
      * @param vector non sorted to be sorted
      * @return a sorted vector

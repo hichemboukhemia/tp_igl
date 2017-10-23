@@ -7,7 +7,7 @@ public class LengthException extends Exception {
 
 	public LengthException() {
 		// TODO Auto-generated constructor stub
-		System.out.println("//////////Exceptioooooooooooon//////");
+		System.out.println("///////Exceptioooon//////");
 		
 	}
 
